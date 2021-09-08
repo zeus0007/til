@@ -52,4 +52,4 @@ LSTM이나 GRU를 쓰면서 기존 BPTT에서 곱셈으로 gradient explode/vani
 LSTM은 한 step마다 다음 step으로 넘겨주는 값이 2개이다. 다음 step에서 직접 사용할 input 벡터, 처음부터 기록한 전체 정보가 들어있는 $C_t$ 벡터
 GRU는 한 step마다 다음 step으로 넘겨주는 값이 1개이다. 위의 2개의 벡터를 하나로 합침.
 
-[Notion Full Note](https://guiltless-talon-5ef.notion.site/de0e3dba51574067b8860173139ac884)
+[Notion Full Note](https://smilingface.notion.site/Recurrent-Neural-Network-and-Language-Modeling-46bbcc05db1647aa9f2214363b61239f)
