@@ -5,7 +5,7 @@
 
 RNN은 연속적으로 들어오는 데이터들을 학습하는 방법
 
-$h_{t-1} $ :  old hidden-state vector
+h_{t-1}:  old hidden-state vector
 $x_t$ : input vector at time step
 $h_t$ : new hidden-state vecotr
 $f_w$ : RNN function with parameters W
