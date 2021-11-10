@@ -2,7 +2,7 @@
 
 Keywords & Summaries Note
 
+- Python
 - Deep Learning
 - NLP
-- Python
-
+- 데이터 제작
